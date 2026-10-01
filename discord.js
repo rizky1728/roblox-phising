@@ -3,7 +3,7 @@
 import axios from 'axios';
 import 'dotenv/config';
 
-const WEBHOOK_URL = process.env.https://discord.com/api/webhooks/1555326187427856444/elIjKF6SCnuf06OUU2jqSRqfXpuUF4WzcpBEK87P-qNymOo87Dq8YGo8Xxl5thAYnIE5;
+const WEBHOOK_URL = process.env.DISCORD_WEBHOOK;
 
 // --- basic send (markdown support) ---
 export async function sendDiscord(content, opts = {}) {
