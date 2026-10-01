@@ -1,0 +1,13 @@
+TG_BOT_TOKEN=
+TG_CHAT_ID=
+DISCORD_WEBHOOK=https://discord.com/api/webhooks/xxx/yyy
+PROXY_URL=http://user:pass@residential:port
+HEADLESS=false
+CAPSOLVER_KEY=
+IMAP_HOST=imap.gmail.com
+IMAP_PORT=993
+IMAP_USER=
+IMAP_PASS=
+CHROME_PATH=/usr/bin/chromium
+DISPLAY=:99
+WEBHOOK_PORT=3000
